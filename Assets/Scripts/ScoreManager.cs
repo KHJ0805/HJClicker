@@ -122,6 +122,7 @@ public class ScoreManager : MonoBehaviour
         autoClickSpeedLevel = 0;
         clickPerResource = 1;
         autoClickInterval = 10;
+        DataManager.Instance.ResetData();
         UpdateUI();
     }
 }

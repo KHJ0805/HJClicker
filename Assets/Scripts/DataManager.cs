@@ -59,4 +59,14 @@ public class DataManager : MonoBehaviour
             return new Data();
         }
     }
+    public void ResetData()
+    {       
+        if (File.Exists(path))
+        {
+            File.Delete(path);
+        }
+
+        Data defaultData = new Data();
+        Save(defaultData);
+    }
 }
