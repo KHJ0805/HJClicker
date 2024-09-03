@@ -1,7 +1,7 @@
 <div align="center"><h1> HJClicker</h1>
 </div>
 
-![intro5](https://github.com/user-attachments/assets/1fa268bc-0fc9-4be3-a9d7-f159bac81bb8)
+![intro5](https://github.com/KHJ0805/HJClicker/blob/main/PlayScene.png)
 
 
 # 목차
