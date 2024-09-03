@@ -1,7 +1,7 @@
 <div align="center"><h1> HJClicker</h1>
 </div>
 
-![intro5](https://github.com/KHJ0805/HJClicker/blob/main/PlayScene.png)
+![PlayScene](https://github.com/KHJ0805/HJClicker/blob/main/PlayScene.png)
 
 
 # 목차
@@ -41,4 +41,5 @@
 |Unity|C#|VisualStudio|GitHub|
 
 ## 게임 설명
-### 스테이지 화면
+### 상점 화면
+![StoreScene](https://github.com/KHJ0805/HJClicker/blob/main/StoreScene.png)
